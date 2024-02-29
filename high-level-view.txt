@@ -1,0 +1,17 @@
+Client 
+- Able to video chat with friend
+- Able to chat also in the call
+
+Server
+- Able to login users
+- Able to reset passwords
+- Able to get uuid with token
+- Able to send message in the chat
+- Able to connect only authorized people 
+
+How does user look?
+- user has a uuid, name, email, passwords, saved rooms.
+
+How does a room look like?
+- room has a uuid, limit of number of people that can join
+- Is room active or deleted
